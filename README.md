@@ -1,5 +1,5 @@
 <h2>Olá pessoal 👋</h2>
-Meu nome é Lucas da Cunha Moreti, desenvolvedor FullStack.
+Meu nome é Lucas da Cunha Moreti, desenvolvedor Web FullStack.
 <br>
 <br>
 
