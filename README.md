@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **NodeJs, TypeScript**
+- 🌱 I’m currently learning **NodeJs, TypeScript, POO**
 
 - 👨‍💻 All of my projects are available at [https://lucasdacunhamoreti.github.io/my-personal-page/](https://lucasdacunhamoreti.github.io/my-personal-page/)
 
