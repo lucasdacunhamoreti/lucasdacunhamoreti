@@ -56,16 +56,10 @@
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  
 
 </p>
-
-
-        
-
 
 <div align="center">
   <a href="https://github.com/lucasdacunhamoreti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdacunhamoreti&show_icons=true&theme=dracula&locale=en"/>
 </div>
-
