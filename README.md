@@ -7,6 +7,8 @@
 
 - 📫 You can reach me at lucasdacunha00@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/lucas-da-cunha-moreti/).
 
+- 🧑🏻 Take a look at my [portfolio](https://my-portfolio-lucasdacunhamoreti.vercel.app/)
+
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frontend</h4>
 
