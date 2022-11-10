@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **NodeJs, TypeScript, POO**
+- 🌱 I’m currently learning **TypeScript, POO, SOLID**
 
 - 🛫 I love the beach and exotic places!
 
