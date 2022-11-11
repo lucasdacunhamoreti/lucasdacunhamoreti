@@ -25,7 +25,49 @@
 </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/lucasdacunhamoreti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdacunhamoreti&show_icons=true&theme=dracula&locale=en"/>
-</div>
+<h3 align="left">Projects</h3>
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="left">App Recipes</h3>
+      <p>
+        <a href="https://github.com/lucasdacunhamoreti/app-recipes">Repo</a>
+      </p>
+      <p>React, ContextAPI</p>
+      <a href="https://github.com/lucasdacunhamoreti/app-recipes"
+        ><img
+          width="300px"
+          src="./images/app-receitas.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">Frontend Online Store</h3>
+      <p>
+        <a href="https://frontend-online-store-lucasdacunhamoreti.vercel.app/">Demo</a>,
+        <a href="https://github.com/lucasdacunhamoreti/frontend-online-store">Repo</a>
+      </p>
+      <p>React, StyledComponents</p>
+      <a href="https://frontend-online-store-lucasdacunhamoreti.vercel.app/"
+        ><img
+          width="300px"
+          src="./images/frontend-online-store.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">My Wallet</h3>
+      <p>
+        <a href="https://my-wallet-lucasdacunhamoreti.vercel.app/">Demo</a>,
+        <a href="https://github.com/lucasdacunhamoreti/my-wallet">Repo</a>
+      </p>
+      <p>React, Typescript, StyledComponents, Recharts</p>
+      <a href="https://my-wallet-lucasdacunhamoreti.vercel.app/"
+        ><img
+          width="300px"
+          src="./images/dashboard.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+  </tr>
+</table>
