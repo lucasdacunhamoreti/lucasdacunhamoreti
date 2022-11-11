@@ -37,6 +37,7 @@
       <a href="https://github.com/lucasdacunhamoreti/app-recipes"
         ><img
           width="300px"
+          height="150px"
           src="./images/app-receitas.png"
           alt="Project-preview"
       /></a>
@@ -51,6 +52,7 @@
       <a href="https://frontend-online-store-lucasdacunhamoreti.vercel.app/"
         ><img
           width="300px"
+          height="150px"
           src="./images/frontend-online-store.png"
           alt="Project-preview"
       /></a>
@@ -65,6 +67,7 @@
       <a href="https://my-wallet-lucasdacunhamoreti.vercel.app/"
         ><img
           width="300px"
+          height="150px"
           src="./images/dashboard.png"
           alt="Project-preview"
       /></a>
@@ -79,6 +82,7 @@
       <a href="https://trybe-wallet-lucasdacunhamoreti.vercel.app/"
         ><img
           width="300px"
+          height="150px"
           src="./images/trybe-wallet.png"
           alt="Project-preview"
       /></a>
