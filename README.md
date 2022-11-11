@@ -51,7 +51,7 @@
       <p>React, StyledComponents</p>
       <a href="https://frontend-online-store-lucasdacunhamoreti.vercel.app/"
         ><img
-          width="300px"
+          width="250px"
           height="120px"
           src="./images/frontend-online-store.png"
           alt="Project-preview"
