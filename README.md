@@ -81,7 +81,7 @@
       <p>React, Redux, Javascript</p>
       <a href="https://trybe-wallet-lucasdacunhamoreti.vercel.app/"
         ><img
-          width="300px"
+          width="280px"
           height="120px"
           src="./images/trybe-wallet.png"
           alt="Project-preview"
