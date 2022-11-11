@@ -61,11 +61,25 @@
         <a href="https://my-wallet-lucasdacunhamoreti.vercel.app/">Demo</a>,
         <a href="https://github.com/lucasdacunhamoreti/my-wallet">Repo</a>
       </p>
-      <p>React, Typescript, StyledComponents, Recharts</p>
+      <p>React, Typescript, Recharts</p>
       <a href="https://my-wallet-lucasdacunhamoreti.vercel.app/"
         ><img
           width="300px"
           src="./images/dashboard.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">Trybe Wallet</h3>
+      <p>
+        <a href="https://trybe-wallet-lucasdacunhamoreti.vercel.app/">Demo</a>,
+        <a href="https://github.com/lucasdacunhamoreti/trybe-wallet">Repo</a>
+      </p>
+      <p>React, Redux, Javascript</p>
+      <a href="https://trybe-wallet-lucasdacunhamoreti.vercel.app/"
+        ><img
+          width="300px"
+          src="./images/trybe-wallet.png"
           alt="Project-preview"
       /></a>
     </td>
